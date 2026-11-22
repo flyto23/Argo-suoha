@@ -82,7 +82,7 @@ bash <(curl -sL suoha.ggff.net | tr -d '\r')
 ```
 **方式二：GitHub 原始链接（备用）**
 ```bash
-bash <(curl -sL [https://raw.githubusercontent.com/ttttwei/Argo-suoha/main/suoha.sh](https://raw.githubusercontent.com/ttttwei/Argo-suoha/main/suoha.sh) | tr -d '\r')
+bash <(curl -sL https://raw.githubusercontent.com/flyto23/Argo-suoha/main/suoha.sh | tr -d '\r')
 ```
 **📌根据菜单选择模式**
 
